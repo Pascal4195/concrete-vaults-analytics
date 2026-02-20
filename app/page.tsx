@@ -1,6 +1,6 @@
 "use client";
 
-import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card"; // We'll create this folder/component next
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"; // We'll create this folder/component next
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 const dummyTvlData = [
